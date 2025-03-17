@@ -18,6 +18,7 @@
 
 ## LIGHT SHOW 
 - 3d cube 8x8x8 
+- 3x3x3 cube tutorial: https://www.instructables.com/DIY-3x3x3-LED-Cube-for-Arduino-Nano/
 - OLED boards (for animations in JS / Scratch) 
 - custom light boards  
 
